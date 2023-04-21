@@ -1,0 +1,23 @@
+{
+  "name": "javascript-game",
+  "version": "1.0.0",
+  "description": "Slot machine practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kipmoney/JavaScript-Slot-Machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kipmoney/JavaScript-Slot-Machine/issues"
+  },
+  "homepage": "https://github.com/Kipmoney/JavaScript-Slot-Machine#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.6.4"
+  }
+}
