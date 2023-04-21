@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Kipmoney/JavaScript-Slot-Machine/issues"
   },
-  "homepage": "https://github.com/Kipmoney/JavaScript-Slot-Machine#readme"
+  "homepage": "https://github.com/Kipmoney/JavaScript-Slot-Machine#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.6.4"
+  }
 }
