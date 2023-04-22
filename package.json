@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Kipmoney/JavaScript-Slot-Machine#readme",
   "dependencies": {
     "bootstrap": "^3.4.1",
-    "jquery": "^3.6.4"
+    "jquery": "^3.6.4",
+    "prompt-sync": "^4.2.0"
   }
 }
